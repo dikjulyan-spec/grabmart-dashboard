@@ -8,7 +8,7 @@
 // ─────────────────────────────────────────────────
 //  KONFIGURASI — ganti dengan URL Apps Script Anda
 // ─────────────────────────────────────────────────
-const API_URL = "https://script.google.com/macros/s/AKfycbyQGUbAoYkJn2W3e5HfFNcek4sgpwQuJFXCurQKsABlb8LAqueQP2RSMvz8SItl5vrL/exec";
+const API_URL = "https://script.google.com/a/macros/grabtaxi.com/s/AKfycbzp77RX9QFTmoFX2SlvSQEQAafuegnVC6r3LlI9I6V4P67XSNgdkh3YO-TDeTv55Xln/exec";
 
 // ─────────────────────────────────────────────────
 //  STATE
