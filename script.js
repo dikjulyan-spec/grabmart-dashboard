@@ -8,7 +8,7 @@
 // ─────────────────────────────────────────────────
 //  KONFIGURASI — ganti dengan URL Apps Script Anda
 // ─────────────────────────────────────────────────
-const API_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL";
+const API_URL = "https://script.google.com/macros/s/AKfycbyQGUbAoYkJn2W3e5HfFNcek4sgpwQuJFXCurQKsABlb8LAqueQP2RSMvz8SItl5vrL/exec";
 
 // ─────────────────────────────────────────────────
 //  STATE
